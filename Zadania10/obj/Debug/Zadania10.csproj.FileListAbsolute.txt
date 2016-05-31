@@ -1,0 +1,10 @@
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\Zadania10.dll.config
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\Zadania10.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\Zadania10.pdb
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\EasyNetQ.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\RabbitMQ.Client.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\EasyNetQ.xml
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\bin\Debug\RabbitMQ.Client.xml
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\obj\Debug\Zadania10.csprojResolveAssemblyReference.cache
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\obj\Debug\Zadania10.dll
+\\psf\home\documents\visual studio 2015\Projects\Zadania10\Zadania10\obj\Debug\Zadania10.pdb
